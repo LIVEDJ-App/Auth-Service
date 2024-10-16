@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj": {}
+    "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj": {}
   },
   "projects": {
-    "c:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj": {
+    "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
+        "projectUniqueName": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
         "projectName": "Auth-Service",
-        "projectPath": "c:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
+        "projectPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
         "packagesPath": "C:\\Users\\Steijn\\.nuget\\packages\\",
-        "outputPath": "c:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\obj\\",
+        "outputPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -434,9 +434,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
-      "projectName": "Auth-Service",
-      "projectPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.csproj",
+      "projectUniqueName": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.Api.csproj",
+      "projectName": "Auth-Service.Api",
+      "projectPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\Auth-Service.Api.csproj",
       "packagesPath": "C:\\Users\\Steijn\\.nuget\\packages\\",
       "outputPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Auth-Service\\Auth-Service\\obj\\",
       "projectStyle": "PackageReference",
