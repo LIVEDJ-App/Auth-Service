@@ -14,7 +14,7 @@ COPY ["Auth.Persistence/Auth.Persistence.csproj", "Auth.Persistence/"]
 RUN dotnet restore "Auth.Api/Auth.Api.csproj"
 
 COPY . .
-WORKDIR "/src/Api"
+WORKDIR "/src/Auth.Api"
 RUN dotnet build "Auth.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
