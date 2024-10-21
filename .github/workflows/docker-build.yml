@@ -30,4 +30,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
           push: true
-          tags: steijntjuh/livedj-auth-service:${GITHUB_REF##*/}
+          tags: steijntjuh/livedj-auth-service:${{ github.ref_name }}
