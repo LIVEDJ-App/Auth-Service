@@ -1,10 +1,9 @@
 name: Build and Push Docker Image
 
-# Trigger on any push or pull request to any branch
 on:
   push:
     branches:
-      - '**'   # Trigger on all branches
+      - '**'   
   pull_request:
     branches:
       - '**'
